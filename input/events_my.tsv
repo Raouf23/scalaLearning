@@ -1,0 +1,31 @@
+COUNTRY_KEY	CONVERSION_EVENTS_CD	CONVERSION_EVENTS_NAME	LEAD_FLG	ENGAGED_FLG	LEAD_START_FLG
+16	TDS	Test Drive Start	0	1	1
+16	TDSM	Test Drive Start with Model	0	1	1
+16	TDC	Test Drive Complete	1	0	0
+16	CCS	Car Configuration Start	0	1	0
+16	CCE	Car configuration Complete	0	1	0
+16	SOCF	Social facebook 	0	1	0
+16	SOCI	Social Instagram	0	1	0
+16	SOCT	Social Twitter	0	1	0
+16	SOCL	Social LinkedIn	0	1	0
+16	SOCP	Social Pinterest	0	1	0
+16	SOCG	Social Google Plus	0	1	0
+16	SOCY	Social YouTube	0	1	0
+16	VW	Video viewed 75%	0	1	0
+16	LVCRS	Live Chat Requested	0	1	0
+16	LVCS	Live Chat Started	0	1	0
+16	LVCC	Live Chat Closed	0	1	0
+16	DSS	Dealer search start	0	1	0
+16	DSC	Dealer search complete	0	1	0
+16	CUS	Contact Us Start	0	1	0
+16	BD	Brochure Download	0	1	0
+16	PLD	Price List Download	0	1	0
+16	FC	Finance Calculator	0	1	0
+16	PFS	Finance Product Finder Service	0	1	0
+16	OS	Offers Start	0	1	0
+16	SMS	Service and Maintenance Start	0	1	0
+16	CRS	Chat  Registration Show	0	1	1
+16	CRC	Chat  Registration Completed	1	0	0
+16	ACCS	Accessories	0	1	0
+16	BCUC	Buy Certified Used Cars	0	1	0
+16	EQS	Discover EQ Start	0	1	0
